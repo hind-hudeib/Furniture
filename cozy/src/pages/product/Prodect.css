@@ -1,0 +1,163 @@
+.prodect0{
+background:url("./HERO5.png") center no-repeat ;
+font-family: 'Alexandria', sans-serif;
+background-size: cover;
+width: 100%;
+height:auto;
+padding: 70px 0px;
+text-align: center;
+overflow: hidden;
+margin-top: 11px;
+}
+
+.prodect0 .row{
+margin: 100px 0px;
+
+}
+
+.prodect0 p{
+color: rgb(255, 253, 253);
+font-size: 25px;
+margin: 10px 0px;
+font-weight: bold;
+text-align: center;
+ background: rgba(78, 82, 93, 0.6);
+border-radius: 10px;
+ box-shadow: -3px -3px 7px #8c8a8ad0,2px 2px 5px rgba(185, 181, 181, 0.546);
+  padding: 20px 10px; 
+  overflow: hidden;
+}
+
+
+
+
+/* code css prodect */
+
+.prodect{
+ 
+  padding: 55px 0px;
+ 
+  height: auto;
+  overflow: hidden;
+  margin-top: 70px;
+
+  }
+  .prodect img{
+  max-width:600px;
+  border-radius: 10px;
+
+  }
+
+  .table1{
+
+margin:50px 0px 50px;
+
+font-size:50px;
+  }
+
+  #td2{
+color: #8d8d98;
+font-weight: bold;
+padding-left: 32px;
+font-size: 25px;
+
+}
+td{
+  font-weight: bold;
+  font-size: 27px;
+}
+
+
+.prodect button{
+
+  background-color: #fff;
+
+
+  box-sizing: border-box;
+  color:orange;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Basier circle",-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  line-height: 1;
+ 
+  text-align: center;
+  text-decoration-thickness: auto;
+  transition: all .1s cubic-bezier(.4, 0, .2, 1);
+  box-shadow: 22px 11px 22px rgba(121, 123, 125, 0.25);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+.button-8 {
+ 
+  font-size: 17px;
+  font-weight:600;
+  margin-top:55px;
+margin-left: 18px;
+ 
+  width:200px;
+  height: 70px;
+}
+
+.button-8:hover ,.button-80:hover {
+  background-color:orange;
+  color: #fff;
+  
+border-style: solid;
+border-color: orange;
+}
+
+
+.button-80 {
+  margin-top:55px;
+  font-size:25px;
+  font-weight:600;
+ 
+margin-left:8px;
+  
+  width: 599px;
+  height:74px;
+}
+
+
+
+#Dimenosin{
+margin-top: 53px;
+ float: left;
+}
+hr.new2 {
+  border-top: 2px dashed rgb(33, 33, 33);
+  width: 973px;
+  float: right;
+}
+
+
+#pet-select{
+ 
+  font-size: 1.01rem;
+  font-weight:600;
+ 
+margin-left:8px;
+ 
+  width:99px;
+  height:64px;
+
+
+}
+.product input{
+  /* margin-top:55px; */
+  width:89px;
+  height:74px;
+    
+  
+  font-size: 632px;
+border-style: solid;
+font-weight: bold;
+text-align: center;
+}
+
+.product input:hover{
+  color:orange;
+  font-size:32px;
+}
+

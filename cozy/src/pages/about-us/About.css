@@ -1,0 +1,176 @@
+body {
+  overflow-x: hidden;
+  flex-wrap: wrap;
+  text-align: justify;
+}
+
+.about1 {
+  background: url("./Images/room8.jpg") center no-repeat;
+  font-family: 'Alexandria', sans-serif;
+  background-size: cover;
+  width: 988px;
+  height: 990px;
+
+
+  overflow: hidden;
+  float: right;
+}
+
+section .row {
+  margin: 0px 0px 0px 0px;
+
+}
+
+.services {
+  margin-top: 183px;
+  text-align: left;
+  padding: 22px;
+
+
+}
+
+.services p ,.worksP, .card-group p {
+
+  text-align: center;
+  color: rgb(116, 113, 113);
+
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+
+/* button {
+
+  background-color: orange;
+
+  border: 0 solid white;
+  box-sizing: border-box;
+  color: rgb(255, 254, 252);
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Basier circle", -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  line-height: 1;
+
+  text-align: center;
+  text-decoration-thickness: auto;
+  transition: all .1s cubic-bezier(.4, 0, .2, 1);
+  box-shadow: 22px 11px 22px rgba(121, 123, 125, 0.25);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+} */
+
+.button-8 {
+  margin-top: 34px;
+  font-size: 23px;
+  font-weight: 700;
+  width: 150px;
+  height: 54px;
+  background-color: orange;
+
+  border: 0 solid white;
+  box-sizing: border-box;
+  color: rgb(255, 254, 252);
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Basier circle", -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  line-height: 1;
+
+  text-align: center;
+  text-decoration-thickness: auto;
+  transition: all .1s cubic-bezier(.4, 0, .2, 1);
+  box-shadow: 22px 11px 22px rgba(121, 123, 125, 0.25);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.icon0 {
+  display: flex;
+  justify-content: center;
+
+  color: rgb(31, 31, 32);
+}
+
+.icon1 {
+  padding-right: 32px;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 22px;
+}
+
+.icon2 {
+  margin-top: 181px;
+  width: 69px;
+  height: 68px;
+
+
+}
+
+.room2 {
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: auto;
+  background-color: rgb(19, 19, 19);
+}
+
+.room3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: 299px;
+  background-color: rgb(19, 19, 19);
+}
+
+.Works {
+
+  margin-top: 54px;
+  color: white;
+  font-weight: bold;
+  font-size: 45px;
+  text-align: center;
+}
+
+.Works1 {
+  margin-top: 0px;
+  color: rgb(244, 238, 238);
+  font-weight: bold;
+  font-size: 45px;
+  float: left;
+}
+
+.Work {
+
+
+  font-weight: bold;
+  font-size: 24px;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.Work1 {
+  color: rgb(251, 250, 250);
+
+  font-weight: bold;
+  font-size: 24px;
+
+}
+
+.imgAbout {
+  display: block;
+  width: 112px;
+  height: 420px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+ .about .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 22px;
+
+}
+.about .card{
+  padding: 0;
+}

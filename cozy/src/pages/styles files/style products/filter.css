@@ -1,0 +1,32 @@
+
+.containe{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    margin: 30px;
+}
+
+.filterCon{
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    height: 414px;
+    border: 2px solid #EAEAEA;
+}
+
+.filterCon h4{
+    margin: 0;
+    padding: 15px 8px ;
+    border-bottom: 1px solid #EAEAEA ;
+}
+
+.filterCon .category{
+    padding: 10px 8px ;
+    border-bottom: 1px solid #EAEAEA ;
+}
+
+.filterCon .category p{
+    margin: 0;
+    margin-bottom: 5px;
+    font-weight: bold;
+}

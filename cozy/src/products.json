@@ -1,0 +1,416 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "category": "chairs",
+            "img": "https://rubiktheme.com/demo/rb_davici_demo/24-small_default/design-living-room-sofa.jpg",
+            "name": "Design Living Room Sofa",
+            "description": "A comfortable and stylish sofa for your living room",
+            "price": 23.90,
+            "colors": [
+                "Blue",
+                "Gray",
+                "Beige"
+            ],
+            "dimensions": {
+                "width": 84,
+                "height": 35,
+                "depth": 38
+            },
+            "materials": [
+                "Fabric",
+                "Foam",
+                "Wood"
+            ],
+            "reviews": [
+                {
+                    "username": "JaneDoe",
+                    "rating": 4,
+                    "comment": "This sofa is so comfortable! I love it."
+                },
+                {
+                    "username": "JohnSmith",
+                    "rating": 5,
+                    "comment": "I couldn't be happier with this purchase."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 2,
+            "category": "chairs",
+            "img": "https://rubiktheme.com/demo/rb_davici_demo/30-small_default/armen-living-summer-chair.jpg",
+            "name": "Armen Living Summer Chair",
+            "description": "An elegant and comfortable armchair for your living room",
+            "price": 35.90,
+            "colors": [
+                "Brown",
+                "Beige",
+                "Gray"
+            ],
+            "dimensions": {
+                "width": 32,
+                "height": 36,
+                "depth": 35
+            },
+            "materials": [
+                "Leather",
+                "Foam",
+                "Wood"
+            ],
+            "reviews": [
+                {
+                    "username": "AnnaK",
+                    "rating": 5,
+                    "comment": "This armchair is perfect for reading."
+                },
+                {
+                    "username": "MikeD",
+                    "rating": 4,
+                    "comment": "It's comfortable and stylish."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 3,
+            "category": "chairs",
+            "img": "https://rubiktheme.com/demo/rb_davici_demo/54-small_default/modern-sofa-couch-with-wood.jpg",
+            "name": "Modern Sofa Couch with Wood",
+            "description": "An elegant and comfortable armchair for your living room",
+            "price": 11.90,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "dimensions": {
+                "width": 48,
+                "height": 18,
+                "depth": 24
+            },
+            "materials": [
+                "Metal",
+                "Glass"
+            ],
+            "reviews": [
+                {
+                    "username": "KellyS",
+                    "rating": 4,
+                    "comment": "I love the design of this coffee table."
+                },
+                {
+                    "username": "DavidT",
+                    "rating": 5,
+                    "comment": "It's exactly what I was looking for."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 4,
+            "category": "chairs",
+            "img": "https://rubiktheme.com/demo/rb_davici_demo/89-small_default/armen-living-crimson-faux-chair.jpg",
+            "name": "Plastic Chair with Wooden Legs",
+            "description": "An elegant and comfortable armchair for your living room",
+            "price": 9.00,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "dimensions": {
+                "width": 48,
+                "height": 18,
+                "depth": 24
+            },
+            "materials": [
+                "Metal",
+                "Glass"
+            ],
+            "reviews": [
+                {
+                    "username": "KellyS",
+                    "rating": 4,
+                    "comment": "I love the design of this coffee table."
+                },
+                {
+                    "username": "DavidT",
+                    "rating": 5,
+                    "comment": "It's exactly what I was looking for."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 5,
+            "category": "tables",
+            "img": "https://rubiktheme.com/demo/rb_davici_demo/60-small_default/cph-20-round-table.jpg",
+            "name": "Modern Coffee Table",
+            "description": "A modern and sleek coffee table for your living room",
+            "price": 11.90,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "dimensions": {
+                "width": 48,
+                "height": 18,
+                "depth": 24
+            },
+            "materials": [
+                "Metal",
+                "Glass"
+            ],
+            "reviews": [
+                {
+                    "username": "KellyS",
+                    "rating": 4,
+                    "comment": "I love the design of this coffee table."
+                },
+                {
+                    "username": "DavidT",
+                    "rating": 5,
+                    "comment": "It's exactly what I was looking for."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 6,
+            "category": "tables",
+            "img": "https://rubiktheme.com/demo/rb_davici_demo/124-small_default/folding-tables-chairs.jpg",
+            "name": "Folding Tables & Chairs",
+            "description": "A modern and sleek coffee table for your living room",
+            "price": 12.90,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "dimensions": {
+                "width": 48,
+                "height": 18,
+                "depth": 24
+            },
+            "materials": [
+                "Metal",
+                "Glass"
+            ],
+            "reviews": [
+                {
+                    "username": "KellyS",
+                    "rating": 4,
+                    "comment": "I love the design of this coffee table."
+                },
+                {
+                    "username": "DavidT",
+                    "rating": 5,
+                    "comment": "It's exactly what I was looking for."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 7,
+            "category": "chairs",
+            "img": "https://rubiktheme.com/demo/rb_davici_demo/129-small_default/folding-tables-chairs.jpg",
+            "name": "Modern Sofa Couch with Wood",
+            "description": "An elegant and comfortable armchair for your living room",
+            "price": 11.90,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "dimensions": {
+                "width": 48,
+                "height": 18,
+                "depth": 24
+            },
+            "materials": [
+                "Metal",
+                "Glass"
+            ],
+            "reviews": [
+                {
+                    "username": "KellyS",
+                    "rating": 4,
+                    "comment": "I love the design of this coffee table."
+                },
+                {
+                    "username": "DavidT",
+                    "rating": 5,
+                    "comment": "It's exactly what I was looking for."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 8,
+            "category": "tables",
+            "img": "https://rubiktheme.com/demo/rb_davici_demo/125-small_default/folding-tables-chairs.jpg",
+            "name": "Modern Coffee Table",
+            "description": "A modern and sleek coffee table for your living room",
+            "price": 299.99,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "dimensions": {
+                "width": 48,
+                "height": 18,
+                "depth": 24
+            },
+            "materials": [
+                "Metal",
+                "Glass"
+            ],
+            "reviews": [
+                {
+                    "username": "KellyS",
+                    "rating": 4,
+                    "comment": "I love the design of this coffee table."
+                },
+                {
+                    "username": "DavidT",
+                    "rating": 5,
+                    "comment": "It's exactly what I was looking for."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 9,
+            "category": "Bed",
+            "img": "https://cdn.shopify.com/s/files/1/0252/5347/products/riftbedside_2048x.jpg?v=1559587541",
+            "name": "Platform bed",
+            "description": " A beautiful wooden bed frame that will add warmth and character to your bedroom.",
+            "price": 299.99,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "dimensions": {
+                "width": 48,
+                "height": 18,
+                "depth": 24
+            },
+            "materials": [
+                "Metal",
+                "Glass"
+            ],
+            "reviews": [
+                {
+                    "username": "KellyS",
+                    "rating": 4,
+                    "comment": "I love the design of this coffee table."
+                },
+                {
+                    "username": "DavidT",
+                    "rating": 5,
+                    "comment": "It's exactly what I was looking for."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 10,
+            "category": "Bed",
+            "img": "https://i.etsystatic.com/11045379/r/il/51eae5/2549818790/il_fullxfull.2549818790_aipq.jpg",
+            "name": "Four-poster bed ",
+            "description": " Four-poster bed - A four-poster bed has four vertical columns, or posts, at each corner of the bed frame. Curtains or drapes can be hung from the posts for a dramatic look.            .",
+            "price": 199.99,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "dimensions": {
+                "width": 48,
+                "height": 18,
+                "depth": 24
+            },
+            "materials": [
+                "Metal",
+                "Glass"
+            ],
+            "reviews": [
+                {
+                    "username": "KellyS",
+                    "rating": 4,
+                    "comment": "I love the design of this coffee table."
+                },
+                {
+                    "username": "DavidT",
+                    "rating": 5,
+                    "comment": "It's exactly what I was looking for."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 11,
+            "category": "Bed",
+            "img": "https://www.murphybedlifestyles.com/wp-content/uploads/2017/03/WALLBED_FARMHOUSE_6.jpg",
+            "name": "Murphy bed ",
+            "description": " A Murphy bed is a space-saving option that can be stored vertically against a wall or inside a cabinet when not in use..            .",
+            "price": 699.99,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "dimensions": {
+                "width": 48,
+                "height": 18,
+                "depth": 24
+            },
+            "materials": [
+                "Metal",
+                "Glass"
+            ],
+            "reviews": [
+                {
+                    "username": "KellyS",
+                    "rating": 4,
+                    "comment": "I love the design of this coffee table."
+                },
+                {
+                    "username": "DavidT",
+                    "rating": 5,
+                    "comment": "It's exactly what I was looking for."
+                }
+            ],
+            "avgRating": 4.5
+        },
+        {
+            "id": 12,
+            "category": "Bed",
+            "img": "https://naplab.com/wp-content/uploads/2021/09/what-is-a-trundle-bed-1.jpg",
+            "name": "Trundle bed ",
+            "description": "A trundle bed is a bed with a second, smaller bed that can be pulled out from underneath. It's a great option for guests or for kids' sleepovers.",
+            "price": 399.99,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "dimensions": {
+                "width": 48,
+                "height": 18,
+                "depth": 24
+            },
+            "materials": [
+                "Metal",
+                "Glass"
+            ],
+            "reviews": [
+                {
+                    "username": "KellyS",
+                    "rating": 4,
+                    "comment": "I love the design of this coffee table."
+                },
+                {
+                    "username": "DavidT",
+                    "rating": 5,
+                    "comment": "It's exactly what I was looking for."
+                }
+            ],
+            "avgRating": 4.5
+        }
+    ]
+}
